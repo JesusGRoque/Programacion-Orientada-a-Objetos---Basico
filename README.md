@@ -1,2 +1,5 @@
-# Programacion-Orientada-a-Objetos---Basico
-Recopilación de programas realizados en lenguaje Java, enfoque de Programación Orientada a Objetos (POO), estos programas son básicos como introducción a POO.
+# Programa Suma Números
+Programa básico de lenguaje Java - Programación Orientada a Objetos (POO)
+Suma de dos números enteros ingresados por el usuario
+
+Nota: El nombre del paquete y de la clase principal se debe ajustar al crear el proyecto.
